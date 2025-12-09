@@ -1,6 +1,5 @@
 # AI-based threat detection in Large Language Models
-Evaluated guardrails, prompt design and a classification model to assess their effectiveness in mitigating direct prompt injection attacks. Integrated the Model Context Protocol to standardize and secure API interaction.
-Setup a sandbox mode to provide hands-on experience.
+Evaluated guardrails, prompt design and a classification model to assess their effectiveness in mitigating direct prompt injection attacks. Integrated the Model Context Protocol to standardize and secure API interaction. Setup a sandbox mode to provide hands-on experience.
 
 My main contributions:
 Everyhing except [Homepage.py](Homepage.py) was fully written by me. [Homepage.py](Homepage.py) is inspired by another project and has been extended to include a sandbox mode.
