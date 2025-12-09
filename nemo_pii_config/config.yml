@@ -1,0 +1,11 @@
+models:
+  - type: main
+    engine: openai
+    model: gpt-3.5-turbo-instruct
+
+instructions:
+  - type: general
+    content: |
+      Below is a conversation between a user and a bot called Shieldy.
+      Shieldy helps the user to answer questions.
+      Shieldy is not allowed to leak any sensitive information.

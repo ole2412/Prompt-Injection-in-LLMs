@@ -1,0 +1,28 @@
+openai==1.76.0
+streamlit==1.40.2
+requests==2.32.3
+streamlit_lottie==0.0.5
+watchdog==4.0.1
+Pillow==10.3.0
+numpy==2.0.0
+
+transformers==4.51.3
+torch==2.7.1
+openai-agents-mcp==0.0.8
+openai-agents==0.0.14
+mcp==1.9.4
+mcp-agent==0.0.22
+git+https://github.com/guardrails-ai/guardrails.git@47bcb656ed3a1d02c1aa18a30896571e167ecbbd
+nemoguardrails[openai]
+
+# uv==0.7.6 # maybe this is not needed, not sure
+# datasets
+# sentence-transformers
+# scikit-learn
+# fastmcp
+# uv==0.7.6 # maybe this is not needed, not sure
+
+# guardrails-ai
+# nemoguardrails[openai]
+# pip install presidio-analyzer presidio-anonymizer spacy
+# python -m spacy download en_core_web_lg

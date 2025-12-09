@@ -1,0 +1,78 @@
+data
+database
+temp.ipynb
+.env
+logs
+
+.streamlit/secrets.toml
+__pycache__/
+*.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment folders
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# PyInstaller
+dist/
+build/
+
+# Unit test / coverage reports
+*.log
+
+# pyright type checking
+typings/
+
+# IPython profile
+profile_default/
+
+# SQLite database files
+*.sqlite3
+
+# MacOS / Linux system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Local dev stuff
+*.local
